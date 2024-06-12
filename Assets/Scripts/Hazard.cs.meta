@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0eb1c38642041834e9dc195aa4e48a12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerreff: {instanceID: 0}
+  - HeartEffect: {fileID: 6855314210357232287, guid: 7c2a9b83b809a0848915fabd9596b68b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
